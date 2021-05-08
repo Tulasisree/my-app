@@ -1,0 +1,10 @@
+body{
+    background-image: url(bg.jpg);
+}
+h1{
+    font-family: 'Fascinate', cursive;
+    color: white;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
